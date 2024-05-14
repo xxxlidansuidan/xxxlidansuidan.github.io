@@ -150,7 +150,7 @@ main {
 }
 main > article {
 	background: tan ;
-	background-image: url("/pix/bg.gif");
+	background-image: url("/images/bg.gif");
 	margin-bottom: 0 ;
 	padding: 1em ;
 	border-color: #234 ;
@@ -162,7 +162,7 @@ main > article {
 footer {
 	max-width: 400px ;
 	background: tan ;
-#	background-image: url("/pix/bg.gif");
+#	background-image: url("/images/bg.gif");
 	margin-left: auto ;
 	margin-right: auto ;
 	margin-top: -16px ;
